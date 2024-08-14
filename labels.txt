@@ -1,0 +1,4 @@
+0 smile
+1 normal
+2 surprised
+3 none
