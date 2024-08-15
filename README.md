@@ -16,6 +16,6 @@
 
 ## 5. **Output and Feedback**: Based on the detected emotion, the program can generate notifications or visual/auditory cues to assist users in understanding the emotional context of their interactions. This feedback is designed to enhance social engagement and communication for visually impaired users. 
 
-## Usage Dirrections:
+# Usage Dirrections:
 
-# Required for running the emotion detection model: **Camera**: A compatible camera for capturing real-time video feeds. - **Teachable Machine Model**: The trained model file needs to be loaded onto the Jetson Nano. ## Installation 1. Set up your Jetson Nano according to the official documentation. 2. Install the necessary dependencies and libraries. 3. Load the trained model file onto the Jetson Nano. 4. Connect and configure the camera. 5. Run the emotion detection program and follow the provided instructions for calibration and usage. 
+## Required for running the emotion detection model: **Camera**: A compatible camera for capturing real-time video feeds. - **Teachable Machine Model**: The trained model file needs to be loaded onto the Jetson Nano. ## Installation 1. Set up your Jetson Nano according to the official documentation. 2. Install the necessary dependencies and libraries. 3. Load the trained model file onto the Jetson Nano. 4. Connect and configure the camera. 5. Run the emotion detection program and follow the provided instructions for calibration and usage. 
