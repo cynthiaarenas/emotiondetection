@@ -4,7 +4,9 @@
 
 ## Overview Emotion detection is crucial for individuals who are visually impaired as it supports and enhances social interactions by providing insights into the emotional states of others. This program utilizes the Jetson Nano, a powerful AI computing platform, to perform real-time emotion recognition. 
 
-## How It Works 1. **Training**: The model was trained using Teachable Machine, a tool that allows users to create custom machine learning models without requiring extensive coding knowledge. The training process involved capturing images of individuals expressing different emotions and labeling them accordingly. The model was then trained to recognize these emotions based on the visual data. 
+# How It Works 
+
+##1. **Training**: The model was trained using Teachable Machine, a tool that allows users to create custom machine learning models without requiring extensive coding knowledge. The training process involved capturing images of individuals expressing different emotions and labeling them accordingly. The model was then trained to recognize these emotions based on the visual data. 
 
 ## 2. **Integration with Jetson Nano**: The trained model is deployed on the Jetson Nano, which provides the computational power necessary for real-time emotion recognition. The Jetson Nano's GPU accelerates the processing of image data, allowing the program to analyze and classify emotions quickly. 
 
