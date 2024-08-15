@@ -1,6 +1,6 @@
 # Emotion Detection Program:
 
-# This emotion detection program was trained using Teachable Machine to identify the following emotions: happy, normal (monotone), surprise, and if there's no one present. 
+## This emotion detection program was trained using Teachable Machine to identify the following emotions: happy, normal (monotone), surprise, and if there's no one present. 
 
 ## Overview Emotion detection is crucial for individuals who are visually impaired as it supports and enhances social interactions by providing insights into the emotional states of others. This program utilizes the Jetson Nano, a powerful AI computing platform, to perform real-time emotion recognition. 
 
